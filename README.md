@@ -1,3 +1,9 @@
+# Blockz
+
+This project is an experiment of mine to learn react and develop a small game.
+It is my first time creating anything like this, so feel free to review and comment my code.
+It is a continuous WIP and I hope the progress will be clearly visible!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
